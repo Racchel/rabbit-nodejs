@@ -23,6 +23,8 @@
     "rules": {
 		"camelcase": "off",
 		"import/no-unresolved": "error",
+		"@typescript-eslint/explicit-module-boundary-types": ["error"],
+
 		"@typescript-eslint/naming-convention": [
 			"error",
 			{
